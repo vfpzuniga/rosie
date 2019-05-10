@@ -1,4 +1,4 @@
-# <img src="rosie-jetsons.jpg" alt="drawing" height="50"/> ROSIE
+# <img src="media/rosie-jetsons.jpg" alt="drawing" height="50"/> ROSIE
 
 > Rosie is the Jetsons' household robot. Rosie does all the housework
 
@@ -36,7 +36,7 @@ To follow [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) standard, Ros
 
  
 ## Demo
-![](rosie-demo.gif)
+![](media/rosie-demo.gif)
 
  
 ## Optional Parameters
